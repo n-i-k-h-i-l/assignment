@@ -1,0 +1,22 @@
+[
+  {
+    "currency": "INR",
+    "rate": 0.0014
+  },
+  {
+    "currency": "USD",
+    "rate": 1
+  },
+  {
+    "currency": "GBP",
+    "rate": 1.38
+  },
+  {
+    "currency": "SGP",
+    "rate": 0.74
+  },
+  {
+    "currency": "HKD",
+    "rate": 0.13
+  }
+]
